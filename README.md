@@ -1,4 +1,4 @@
-# professional-portfolio
+# password generator
 
 ## Description 📝
 
